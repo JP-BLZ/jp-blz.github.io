@@ -2,7 +2,7 @@
 layout: post
 title:  "A Problem with AWS ALB Stickiness!"
 subtitle:  "AWS ALB, Sticky Sessions and ERR_HTTP2_PROTOCOL_ERROR!"
-date:   2023-02-01 16:05:02 +0530
+date:   2024-02-17 16:05:02 +0530
 categories: aws
 ---
 
